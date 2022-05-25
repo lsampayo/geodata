@@ -24,11 +24,11 @@ radios solicitados.
 ## Datos
 Del universo de datos que el INEGI provee en su página (https://www.inegi.org.mx/app/descarga/?ti=6) se tomarón para este ejercicio los siguientes:
 
-Comercio al por mayor
-Comercio al por menor (1 de 4)
-Comercio al por menor (2 de 4)
-Comercio al por menor (3 de 4)
-Comercio al por menor (4 de 4)
+* Comercio al por mayor
+* Comercio al por menor (1 de 4)
+* Comercio al por menor (2 de 4)
+* Comercio al por menor (3 de 4)
+* Comercio al por menor (4 de 4)
 
 ### Diseño Final para los datos en RedShift
 ![alt text](./images/imagen02_spot.png)
